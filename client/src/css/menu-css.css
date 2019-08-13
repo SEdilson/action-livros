@@ -1,0 +1,19 @@
+.menu {
+    background-color: #000;
+    height: 10%;
+}
+
+    .menu ul {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .menu li {
+        color: #fff;
+        list-style-type: none;
+        margin-left: .5rem;
+    }
+
+    .menu a {
+        text-decoration: none;
+    }

@@ -1,0 +1,34 @@
+.form-action, .input-form-action {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-action {
+    margin-top: 4rem;
+    align-items: center;
+}
+
+.input-form-action {
+    margin: .5rem;
+    width: 25%;
+}
+
+.menu {
+    background-color: #000;
+    height: 10%;
+}
+
+.menu ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu li {
+    color: #fff;
+    list-style-type: none;
+    margin-left: .5rem;
+}
+
+.menu a {
+    text-decoration: none;
+}

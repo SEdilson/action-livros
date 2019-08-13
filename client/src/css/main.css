@@ -1,0 +1,14 @@
+.form-action, .input-form-action {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-action {
+    margin-top: 4rem;
+    align-items: center;
+}
+
+.input-form-action {
+    margin: .5rem;
+    width: 14rem;
+}
